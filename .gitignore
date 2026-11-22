@@ -1,0 +1,9 @@
+.vercel
+.codebenders/
+src/__tests__/tmp-*.test.ts
+node_modules
+dist
+test-results
+tsconfig.tsbuildinfo
+.env*
+.DS_Store
